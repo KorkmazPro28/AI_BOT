@@ -4,7 +4,7 @@ from model import get_class
 import os,random
 import requests
 
-TOKEN = "MTEwNjY1NjY2NjE2Mzg3NTk3NA.GZx9BC.PDtYxqDAyCBydxUrFxXvcsqumrW6qmuYJAIQ18"
+TOKEN = ""
 intents = discord.Intents.default()
 intents.message_content = True
 
